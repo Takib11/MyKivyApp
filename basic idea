@@ -1,0 +1,9 @@
+[app]
+title = Bangladesh Travel Guide
+package.name = travelbd
+package.domain = org.bd
+source.include_exts = py,png,jpg,kv
+
+requirements = python3,kivy
+
+android.permissions = INTERNET
